@@ -13,8 +13,6 @@ Here are links to our past writeups:
 * [Project Proposal](https://docs.google.com/document/d/1W3ZimpzPykjIOIE-W7bwjfphbVhfIkJ4bvI-KBqvIHc/edit?usp=sharing)
 * [Project Writeup](https://docs.google.com/document/d/1arQo58Bf_xCCFifa-CMESClPDctskhQzk6FiiXTozNU/edit?usp=sharing)
 
-## Updating
-
 To update the list of strings that HelpMenu compares the OCR output to, edit [items.txt](https://github.com/dyxh/helpmenu/blob/master/app/src/main/res/raw/items.txt).
 
 ## Libraries and other things
